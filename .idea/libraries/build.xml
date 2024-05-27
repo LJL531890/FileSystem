@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="build">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/Controller.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/DSClient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/Dstore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
